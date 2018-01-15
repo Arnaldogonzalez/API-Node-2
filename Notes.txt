@@ -1,0 +1,19 @@
+GRAPHQL vs REST
+
+GRAPHQL
+- One route
+- Not based on HTTP verbs
+- Strict data typing
+- Interactive docs
+- Works well with a component architecture
+- Advanced data resolving
+
+REST
+- Many routes
+- Based on HTTP verbs
+- Cacheable on a network level
+
+FINAL NODE.JS PROJECT
+- You should have a dataset to work with (recommend the mongodb datasets)
+- REST API using express, mongoose
+- You need to implement the front-end
